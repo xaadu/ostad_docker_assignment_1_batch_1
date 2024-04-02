@@ -25,4 +25,4 @@ A simple go server.
 
 ### Check if the server is running
 1. Go to `http://localhost:<given_port>` and check if you see "`Hello, from Ostad! <3`".
-2. Go to `http://localhost:<given_port>/healthcheck` and check if you see "`{"Status": "OK"}`".
+2. Go to `http://localhost:<given_port>/health` and check if you see "`{"Status": "OK"}`".
